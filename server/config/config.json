@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "andyl",
+    "password": "otp2022",
+    "database": "andyl",
+    "host": "mysql.metropolia.fi",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "andyl",
+    "password": "otp2022",
+    "database": "andyl",
+    "host": "mysql.metropolia.fi",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "andyl",
+    "password": "otp2022",
+    "database": "andyl",
+    "host": "mysql.metropolia.fi",
+    "dialect": "mysql"
+  }
+}
