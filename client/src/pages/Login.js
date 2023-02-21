@@ -23,8 +23,7 @@ function Login() {
       />
       <label>Password:</label>
       <input
-        input="password"
-        type={password}
+        type="password"
         onChange={(event) => {
           setPassword(event.target.value);
         }}
